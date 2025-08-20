@@ -3,6 +3,10 @@ import PalkiaVideo from './assets/Black Playful Animated Welcome Channel Youtube
 import TechStack from './assets/Palkia Tech Stack (2).png'
 import TechRec from './assets/Palkia Recognition.png'
 
+/**
+ * About component displays information about the Palkia AI project
+ * including its recognition, tech stack, and context engine
+ */
 const About: React.FC = () => {
 
   useEffect(() => {
